@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "com/example/gradientchat/mixin/ChatScreenMixin": {
+      "Lnet/minecraft/client/network/ClientPlayNetworkHandler;sendChatMessage(Ljava/lang/String;)V": "Lnet/minecraft/class_634;method_45729(Ljava/lang/String;)V",
+      "render": "Lnet/minecraft/class_408;method_25394(Lnet/minecraft/class_332;IIF)V",
+      "sendMessage": "Lnet/minecraft/class_408;method_44056(Ljava/lang/String;Z)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/example/gradientchat/mixin/ChatScreenMixin": {
+        "Lnet/minecraft/client/network/ClientPlayNetworkHandler;sendChatMessage(Ljava/lang/String;)V": "Lnet/minecraft/class_634;method_45729(Ljava/lang/String;)V",
+        "render": "Lnet/minecraft/class_408;method_25394(Lnet/minecraft/class_332;IIF)V",
+        "sendMessage": "Lnet/minecraft/class_408;method_44056(Ljava/lang/String;Z)V"
+      }
+    }
+  }
+}
